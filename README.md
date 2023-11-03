@@ -7,4 +7,7 @@
   https://github.com/solobala/DSNN18/blob/main/Notebook_for_lecture_3.ipynb
 * Лекция 4. Введение в реккурентные НС (анализ размера зарплаты по названию и описанию вакансии и еще некоторым категориальным признакам, интерпретация)
   https://colab.research.google.com/drive/1t0_Kaasekvj8Vj5mlHtCA1Zo0qa_bt8e
-* 
+* ДЗ 1 Сверточная сеть для классификации
+  CIFAR https://github.com/solobala/DSNN18/blob/master/DSNN18_DZ1_2.ipynb
+* ДЗ 2 Реккурентная сеть и эксперименты ( предсказание частеречных тэгов на корпусе brown из nltk)
+  https://github.com/solobala/DSNN18/blob/master/DSNN18_DZ2.ipynb  ( сделала мало экспериментов, надо доработать)
